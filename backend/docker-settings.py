@@ -34,7 +34,7 @@ DATABASES = {
         "NAME": "taiga",
         "HOST": "postgres",
         "USER": "taiga",
-        "PASSWORD": "thisisthetaigapassword",
+        "PASSWORD": "taiga",
     }
 }
 
